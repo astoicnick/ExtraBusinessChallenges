@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Outings", "04_Outings\04_Outings.csproj", "{AF568C0C-68CF-4A0A-8383-4A31837F7E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF568C0C-68CF-4A0A-8383-4A31837F7E0E}.Debug|x86.ActiveCfg = Debug|x86
+		{AF568C0C-68CF-4A0A-8383-4A31837F7E0E}.Debug|x86.Build.0 = Debug|x86
+		{AF568C0C-68CF-4A0A-8383-4A31837F7E0E}.Release|x86.ActiveCfg = Release|x86
+		{AF568C0C-68CF-4A0A-8383-4A31837F7E0E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

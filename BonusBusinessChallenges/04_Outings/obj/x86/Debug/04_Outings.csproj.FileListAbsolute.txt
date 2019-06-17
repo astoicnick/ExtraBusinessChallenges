@@ -1,0 +1,6 @@
+/Users/nick/elfi/projects/Business Challenges/BonusBusinessChallenges/04_Outings/bin/Debug/04_Outings.exe
+/Users/nick/elfi/projects/Business Challenges/BonusBusinessChallenges/04_Outings/bin/Debug/04_Outings.pdb
+/Users/nick/elfi/projects/Business Challenges/BonusBusinessChallenges/04_Outings/obj/x86/Debug/04_Outings.csprojAssemblyReference.cache
+/Users/nick/elfi/projects/Business Challenges/BonusBusinessChallenges/04_Outings/obj/x86/Debug/04_Outings.csproj.CoreCompileInputs.cache
+/Users/nick/elfi/projects/Business Challenges/BonusBusinessChallenges/04_Outings/obj/x86/Debug/04_Outings.exe
+/Users/nick/elfi/projects/Business Challenges/BonusBusinessChallenges/04_Outings/obj/x86/Debug/04_Outings.pdb

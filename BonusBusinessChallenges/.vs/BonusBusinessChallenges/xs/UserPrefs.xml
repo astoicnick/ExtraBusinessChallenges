@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AF568C0C-68CF-4A0A-8383-4A31837F7E0E}|Default">
+  <MonoDevelop.Ide.ItemProperties.04__Outings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04_Outings/Console/ProgramUI.cs">
+    <Files>
+      <File FileName="04_Outings/Repositories/OutingRepository.cs" Line="13" Column="72" />
+      <File FileName="04_Outings/Console/Program.cs" />
+      <File FileName="04_Outings/Console/ProgramUI.cs" Line="46" Column="14" />
+      <File FileName="04_Outings/Models/Outing.cs" />
+      <File FileName="04_Outings/Repositories/IOutingRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BonusBusinessChallenges" expanded="True">
+            <Node name="04_Outings" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
